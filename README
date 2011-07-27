@@ -1,0 +1,17 @@
+Maple worksheet containing a procedure to draw the Cayley graph of a group.
+Compatible with Maple 12. (It may work with other versions, but this is the
+only version I have access to.) It uses lots of goodies which are built-in to
+Maple, so the code is rather short.  A few examples of the output can be
+found here:
+
+http://binaryskeith.com/Pictures/a4_alt.jpg
+http://binaryskeith.com/Pictures/b23.jpg
+http://en.wikipedia.org/wiki/File:FreeBurnsideGroupExp3Gens2.png
+
+
+The usage should be clear from the comments in the worksheet.  Just make sure
+you re-load all of the statements before trying to run the procedure.
+
+
+Credits: Parts of this work were inspired by a thesis of Sonja Willis from
+UCSD.
