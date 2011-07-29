@@ -1,10 +1,10 @@
 Drawing [Cayley Graphs] in Maple 12
 =================================
 
-A Maple worksheet containing a procedure to draw the [Cayley graph] of a [group].
-Compatible with Maple 12. (It may work with other versions, but this is the
-only version I have access to.) It uses lots of goodies which are built-in to
-Maple, so the code is rather short.
+A Maple worksheet containing a procedure to draw the [Cayley graph] of a 
+(finite) [group]. Compatible with Maple 12. (It may work with other versions, 
+but this is the only version I have access to.) It uses lots of goodies which 
+are built-in to Maple, so the code is rather short. 
 
 [Cayley graph]: http://en.wikipedia.org/wiki/Cayley_graph
 [Cayley Graphs]: http://en.wikipedia.org/wiki/Cayley_graph
